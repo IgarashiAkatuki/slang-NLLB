@@ -1,2 +1,2 @@
-# slang-NLLB
-基于NLLB的Internet Slang Translation
+# slang-Translation
+Internet Slang Translation
